@@ -1,9 +1,6 @@
 {
   "name": "framework",
   "version": "1.3.3",
-  "scripts": {
-    "preinstall": "npm install -g karma-cli"
-  },
   "devDependencies": {
     "karma": "~0.12.0",
     "karma-jasmine": "^0.1.5",
